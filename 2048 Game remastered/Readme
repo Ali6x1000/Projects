@@ -1,1 +1,2 @@
-
+SlideGame
+SlideGame is a JavaFX-based clone of the popular 2048 game, with an exciting twist: it supports diagonal moves in addition to the standard directions! This project is designed with customizable grid dimensions, allowing you to experience the classic merging tile game with a fresh challenge.
