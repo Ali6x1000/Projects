@@ -5,24 +5,19 @@ Standard 2048 Game Mechanics: Slide tiles in four primary directions (up, down, 
 Diagonal Movements: Move tiles diagonally (up-left, up-right, down-left, down-right) to add a new layer of strategy.
 Customizable Grid Size: Default grid size is 4x4, but the grid can be customized by passing dimensions as command-line arguments.
 Random Tile Placement: After each move, a new tile is randomly placed on the board.
-Installation
-Clone the repository:
 
-bash
-Copy code
+1) Installation
+
 git clone https://github.com/yourusername/SlideGame.git
 cd SlideGame
+
 Compile the Project: Make sure you have JavaFX installed and configured. Compile using:
 
-bash
-Copy code
 javac --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls SlideGame.java GameBoard.java
+
 Run the Game: To launch the game with a custom grid size, use the following command:
 
-bash
-Copy code
-java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls SlideGame [rows] [cols]
-Replace [rows] and [cols] with your desired grid dimensions. For example, java SlideGame 5 5 creates a 5x5 grid.
+java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls SlideGame [rows] [cols] //Replace [rows] and [cols] with your desired grid dimensions. For example, java SlideGame 5 5 creates a 5x5 grid.
 
 Usage
 The game starts with one tile on a blank grid. Slide tiles in any direction to merge matching tiles and grow their values. Continue sliding to reach the highest possible tile value!
