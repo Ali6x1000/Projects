@@ -1,1 +1,22 @@
 
+# 🕹️ SlideGame
+
+**SlideGame** is a JavaFX-based clone of the popular 2048 game, with an exciting twist: it supports diagonal moves in addition to the standard directions! This project offers customizable grid dimensions, allowing you to experience the classic merging tile game with a fresh challenge.
+
+---
+
+## 🚀 Features
+
+- **Standard 2048 Mechanics:** Slide tiles in four primary directions (up, down, left, right) to combine matching tiles.  
+- **Diagonal Movements:** Move tiles diagonally (up-left, up-right, down-left, down-right) for an added layer of strategy.  
+- **Customizable Grid Size:** Default grid is 4x4, but you can customize dimensions via command-line arguments.  
+- **Random Tile Placement:** A new tile is randomly placed on the board after each move.
+
+---
+
+## ⚙️ Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/SlideGame.git
+   cd SlideGame
