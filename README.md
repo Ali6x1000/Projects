@@ -8,39 +8,14 @@ This GitHub repository showcases a selection of my projects that reflect my dive
 ## Projects 📂
 Here’s a brief overview of the key projects in this repository:
 
-### 1. **Mathematical Scientific calculator with derivitives ⚙️**
-This project is a library designed to represent various mathematical functions such as `sin(x)`, `cos(x)`, `exp(x)`, `log(x)`, and polynomials. The library allows symbolic differentiation and composition of functions. It’s built using object-oriented principles to provide flexibility and extensibility in symbolic computation.
+### 1. **Calculator 🧮**
+   - A simple but powerful scientific calculator that supports various mathematical operations like addition, subtraction, multiplication, division ,derivition. It serves as a basic tool for solving arithmetic expressions.
 
-#### Key Features:
-- Represent mathematical functions as classes (e.g., `Sin`, `Cos`, `Exp`).
-- Calculate derivatives symbolically.
-- Compose functions for complex expressions.
-- Supports constants, variables, and polynomial operations.
+### 2. **Canvas Downloader 🎨**
+   - This tool allows you to download canvases from websites that use the HTML5 `<canvas>` element. It's a useful utility for saving digital artwork or other graphical content directly from the web.
 
----
-
-### 2. **Binary Search Tree (BST) Implementation in Java 🌳**
-This project demonstrates my implementation of a Binary Search Tree (BST) in Java, where I manually implement the basic operations like insertion, deletion, and search without using built-in libraries. This project was part of an assignment to reinforce my understanding of tree structures and recursion.
-
-#### Key Features:
-- Custom implementation of tree operations.
-- In-order, pre-order, and post-order traversal.
-- Designed for educational purposes to improve data structure knowledge.
-
----
-
-### 3. **Python Projects 🐍**
-This folder contains various Python projects related to algorithms, data structures, and optimization techniques. I enjoy working with Python for rapid prototyping and solving algorithmic challenges.
-
-#### Key Features:
-- Algorithms and logic problem-solving.
-- Optimization solutions.
-- Various smaller projects focusing on practical uses of Python in computing.
-
----
-
-### 4. **Mathematical Proofs & Theoretical Work 📚**
-As a student of computer science and mathematics, I also enjoy delving into mathematical proofs. Some of my theoretical work includes topics like injective functions, Fibonacci sequences, and discrete mathematics.
+### 3. **2048 Remastered Game 🕹️**
+   - A remastered version of the popular 2048 game, featuring improved graphics, enhanced user experience, and additional game mechanics. Challenge yourself to reach the elusive 2048 tile!
 
 ---
 
@@ -70,6 +45,6 @@ To contribute:
 ## Contact 📬
 If you have any questions, suggestions, or want to collaborate on a project, feel free to reach out to me:
 - **Email:** aan90@case.edu
-- **LinkedIn:** [Ali Nawaf](https://www.linkedin.com/in/alinawaf)
+- **LinkedIn:** [Ali Nawaf](https://www.linkedin.com/in/ali-nawaf-2ba1b6306/)
 
 Thanks for visiting my GitHub! 😊
