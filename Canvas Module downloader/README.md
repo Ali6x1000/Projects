@@ -34,9 +34,12 @@ cd CanvasModuleDownloader
 ### 🛠 Configuration
 Before running the script, you will need to configure the following parameters:
 
-Canvas Domain: Update the canvas_domain variable to your Canvas domain (e.g., "canvas.case.edu").
-Access Token: Replace the access_token with your Canvas API token. Ensure the token has the necessary permissions to access course modules and files.
-Output Directory: The output_dir specifies where downloaded files will be saved. The default is ./canvas_downloads.
+Canvas Domain: Update the canvas_domain variable to your Canvas domain (e.g., "canvas.case.edu").  
+
+Access Token: Replace the access_token with your Canvas API token. Ensure the token has the necessary permissions to access course modules and files.  
+
+Output Directory: The output_dir specifies where downloaded files will be saved. The default is ./canvas_downloads.  
+
 
 ### How to get your Canvas Access Tocken
 ![Canvas Logo](1.png)
