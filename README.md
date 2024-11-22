@@ -8,7 +8,7 @@ This GitHub repository showcases a selection of my projects that reflect my dive
 ## Projects 📂
 Here’s a brief overview of the key projects in this repository:
 
-### 1. **Mathematical Function Representation and Operations Library ⚙️**
+### 1. **Mathematical Scientific calculator with derivitives ⚙️**
 This project is a library designed to represent various mathematical functions such as `sin(x)`, `cos(x)`, `exp(x)`, `log(x)`, and polynomials. The library allows symbolic differentiation and composition of functions. It’s built using object-oriented principles to provide flexibility and extensibility in symbolic computation.
 
 #### Key Features:
@@ -69,7 +69,7 @@ To contribute:
 
 ## Contact 📬
 If you have any questions, suggestions, or want to collaborate on a project, feel free to reach out to me:
-- **Email:** ali.nawaf@example.com
+- **Email:** aan90@case.edu
 - **LinkedIn:** [Ali Nawaf](https://www.linkedin.com/in/alinawaf)
 
 Thanks for visiting my GitHub! 😊
