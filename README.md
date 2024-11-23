@@ -27,8 +27,10 @@ Here’s a brief overview of the key projects in this repository:
 
 ## Projects in Progress 🔄
 Currently, I am working on improving my understanding of:
-- **Discrete Mathematics:** Preparing for exams and working on problem-solving techniques.
-- **Service Engineering:** Interested in engineering internships related to healthcare, life sciences, and product service solutions.
+- **Undergraduate Natural Language proccessing Team** : Conducting research on enhancing AI model accuracy using the Low-Rank Adaptation (LoRA) fine-tuning technique.
+- Leveraging the university’s HPC system to train and evaluate Meta’s Llama 3B and 8B AI models.
+- Analyzing performance metrics to optimize model efficiency and contribute to cutting-edge NLP advancements.
+
 
 ## Contributing 🤝
 I welcome contributions to any of my projects. Whether it’s bug fixes, improvements, or new features, feel free to fork the repository and open a pull request.
