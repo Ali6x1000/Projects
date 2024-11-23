@@ -25,11 +25,11 @@
 The game starts with one tile on a blank grid. Slide tiles in any direction to merge matching tiles and grow their values. Continue sliding to reach the highest possible tile value!
 
 ## 🕹️ Game Controls
-- ** Top-left corner tile: Diagonal up-left move
-- ** Top-right corner tile: Diagonal up-right move
-- ** Bottom-left corner tile: Diagonal down-left move
-- ** Bottom-right corner tile: Diagonal down-right move
-- ** Other edge tiles: Perform up, down, left, or right moves depending on their position.
+- **Top-left** corner tile: Diagonal up-left move
+- **Top-right** corner tile: Diagonal up-right move
+- **Bottom-left** corner tile: Diagonal down-left move
+- **Bottom-right** corner tile: Diagonal down-right move
+- **Other edge tiles:** Perform up, down, left, or right moves depending on their position.
   ## 🏆 How to Play
 Objective: Merge tiles of the same number to create tiles with higher values.
 
