@@ -22,7 +22,7 @@ Here’s a brief overview of the key projects in this repository:
 ## Skills & Tools 🛠️
 - **Programming Languages:** Java, Python
 - **Mathematics & Algorithms:** Data structures, algorithms, optimization, proof writing
-- **Development Tools:** IntelliJ IDEA, Eclipse, Git, GitHub
+- **Development Tools:** Git, GitHub
 - **Other Interests:** Sports nutrition, athletic performance, Brazilian Jiu-Jitsu, Muay Thai, hiking, languages
 
 ## Projects in Progress 🔄
