@@ -77,10 +77,10 @@ public class BinaryOp implements Function {
         }
     }
     
- // Implementation of value() method with no input
+    // Implementation of value() method with no input
     @Override
     public double value() {
-        return value(10); // Default input value of 10
+        throw new UnsupportedOperationException("Input expected.");
     }
     /**
      * Returns the binary operator.
